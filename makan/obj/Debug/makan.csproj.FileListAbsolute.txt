@@ -1,0 +1,10 @@
+C:\Users\ilham\Google Drive\1. SEMESTER 3\OOP (C#)\Homework\makan\makan\bin\Debug\MaterialSkin.dll
+C:\Users\ilham\Google Drive\1. SEMESTER 3\OOP (C#)\Homework\makan\makan\obj\Debug\makan.csprojResolveAssemblyReference.cache
+C:\Users\ilham\Google Drive\1. SEMESTER 3\OOP (C#)\Homework\makan\makan\obj\Debug\makan.Form1.resources
+C:\Users\ilham\Google Drive\1. SEMESTER 3\OOP (C#)\Homework\makan\makan\obj\Debug\makan.Properties.Resources.resources
+C:\Users\ilham\Google Drive\1. SEMESTER 3\OOP (C#)\Homework\makan\makan\obj\Debug\makan.csproj.GenerateResource.Cache
+C:\Users\ilham\Google Drive\1. SEMESTER 3\OOP (C#)\Homework\makan\makan\obj\Debug\makan.exe
+C:\Users\ilham\Google Drive\1. SEMESTER 3\OOP (C#)\Homework\makan\makan\obj\Debug\makan.pdb
+C:\Users\ilham\Google Drive\1. SEMESTER 3\OOP (C#)\Homework\makan\makan\bin\Debug\makan.exe.config
+C:\Users\ilham\Google Drive\1. SEMESTER 3\OOP (C#)\Homework\makan\makan\bin\Debug\makan.exe
+C:\Users\ilham\Google Drive\1. SEMESTER 3\OOP (C#)\Homework\makan\makan\bin\Debug\makan.pdb
